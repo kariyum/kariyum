@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in backend engineering and artificial intelligence like genetic algorithms and neural networks. Also, I was hooked to combinatorial optimization approachs and I became intrigued by the Ant Colony Optimization metaheuristic approach, so I made a simulation on the web, that is, a way to interact with the algorithm.
+I'm currently a computer science student, interested in backend engineering and artificial intelligence like genetic algorithms and neural networks. Also, I was hooked to combinatorial optimization approachs and I became intrigued by the Ant Colony Optimization metaheuristic approach, so I made a simulation on the web, that is, a way to interact with the algorithm.
 
 <!--
 **kariyum/kariyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
